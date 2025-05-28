@@ -53,22 +53,10 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiaaaMinn&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaaaMinn&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-
-## 📫 Connect with me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JiaaaMinn&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
