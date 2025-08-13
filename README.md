@@ -8,8 +8,7 @@
 
 ## 🔭 About Me
 
-- 📫 You can reach me at: [phangiaman1011@gmail.com](mailto:phangiaman1011@gmail.com)  
-- 📄 Check out my CV: [Link to CV](https://drive.google.com/file/d/16ZSMYQEQoJcnr8TnpCg2At66P-DCqWv2/view?usp=drive_link)
+- 📫 You can reach me at: [phangiaman1011@gmail.com](mailto:phangiaman1011@gmail.com) 
 
 ---
 
